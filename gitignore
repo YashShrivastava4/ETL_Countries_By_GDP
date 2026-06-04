@@ -1,0 +1,19 @@
+# Generated outputs — created by running etl_project_gdp.py
+Countries_by_GDP.csv
+World_Economies.db
+etl_project_log.txt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.env/
+env/
+
+# IDE files
+.vscode/
+.idea/
+*.DS_Store
